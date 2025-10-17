@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Ejercicio 3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ejercicio2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Ejercicio 4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ejercicio5/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="corretto-24" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
